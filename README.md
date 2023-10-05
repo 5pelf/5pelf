@@ -1,56 +1,5 @@
 👋 Hello, I'm Maksym or Spelf in the E-World!
 
-<p align="center">
-  <span>
-    <a href="https://github.com/5pelf/github-profile-trophy">
-      <img
-        src="https://github-profile-trophy.vercel.app/?username=5spelf&title=MultiLanguage&theme=nord&no-frame=true&column=1"
-        alt="5spelf"
-      />
-    </a>
-  </span>
-  <span>
-    <a href="https://github.com/5pelf/github-profile-trophy">
-      <img
-        src="https://github-profile-trophy.vercel.app/?username=5spelf&title=Commit&theme=nord&no-frame=true&column=1"
-        alt="5spelf"
-      />
-    </a>
-  </span>
-  <span>
-    <a href="https://github.com/5pelf/github-profile-trophy">
-      <img
-        src="https://github-profile-trophy.vercel.app/?username=5spelf&title=Repositories&theme=nord&no-frame=true&column=1"
-        alt="5spelf"
-      />
-    </a>
-  </span>
-  <span>
-    <a href="https://github.com/5pelf/github-profile-trophy">
-      <img
-        src="https://github-profile-trophy.vercel.app/?username=5spelf&title=Stars&theme=nord&no-frame=true&column=1"
-        alt="5spelf"
-      />
-    </a>
-  </span>
-  <span>
-    <a href="https://github.com/5pelf/github-profile-trophy">
-      <img
-        src="https://github-profile-trophy.vercel.app/?username=5spelf&title=Followers&theme=nord&no-frame=true&column=1"
-        alt="5spelf"
-      />
-    </a>
-  </span>
-  <span>
-    <a href="https://github.com/5pelf/github-profile-trophy">
-      <img
-        src="https://github-profile-trophy.vercel.app/?username=5spelf&title=Issues&theme=nord&no-frame=true&column=1"
-        alt="5spelf"
-      />
-    </a>
-  </span>
-</p>
-
 I'm a passionate software developer with a love for coding and a curious mind. I thrive on challenges and enjoy crafting elegant solutions to complex problems. My journey in the world of programming began when I wrote my first program which was calculator on java(i just copied everything i saw in the tutorial), and I've been hooked on creating software ever since.
 
 💼 In the professional realm, I've had the privilege of working on a diverse range of projects, from web applications that simplify everyday tasks to machine learning models that uncover valuable insights from data. My experience spans multiple technologies, including C++, Java, Python, Processing.
