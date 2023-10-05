@@ -1,6 +1,6 @@
 👋 Hello, I'm Maksym or Spelf in the E-World!
 
-[![trophy](https://github-profile-trophy.vercel.app/5pelfryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/5pelf-ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 I'm a passionate software developer with a love for coding and a curious mind. I thrive on challenges and enjoy crafting elegant solutions to complex problems. My journey in the world of programming began when I wrote my first program which was calculator on java(i just copied everything i saw in the tutorial), and I've been hooked on creating software ever since.
 
