@@ -1,6 +1,6 @@
 <p>👋 Hello, I'm Maksym or Spelf in the E-World!</p>
 
-<p align="center">
+<p>
   <span>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img
